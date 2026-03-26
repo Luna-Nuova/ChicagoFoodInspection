@@ -13,5 +13,5 @@ df1 = df_un.groupby("Facility Type")["Inspection ID"].count()
 print(df1.idxmax())
 
 #altro metodo
-df2 = df_un.groupby("Facility Type")["Inspection ID"].nunique()
+df2 = df.groupby("Facility Type")["Inspection ID"].nunique()
 print(df2.idxmax())
