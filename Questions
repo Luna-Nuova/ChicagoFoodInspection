@@ -1,0 +1,20 @@
+Quali tipi di esercizi alimentari vengono ispezionati più spesso?
+Le attività ad alto rischio falliscono più spesso rispetto a quelle a basso rischio?
+Come sono distribuiti gli esiti delle ispezioni tra le diverse categorie di rischio?
+Il tasso di fallimento è cambiato nel tempo?
+Esistono pattern stagionali nelle ispezioni o nei fallimenti?
+In alcuni periodi le ispezioni hanno una probabilità maggiore di concludersi con un fallimento?
+Quali CAP o aree registrano il numero più alto di ispezioni fallite?
+Quali aree hanno il tasso di fallimento più alto, normalizzato per numero di ispezioni?
+Alcune attività vengono ispezionate molto più frequentemente di altre?
+Con quale frequenza le attività superano un’ispezione dopo averne fallita una precedente?
+Quali attività mostrano il maggiore miglioramento nel tempo?
+Quali attività mostrano ripetuta non conformità nel tempo?
+Quali tipi di violazioni sono più comuni nelle ispezioni fallite?
+Quali pattern di violazioni compaiono più frequentemente nelle ispezioni fallite rispetto a quelle superate?
+Alcune violazioni sono fortemente associate a specifici tipi di struttura?
+Il numero di violazioni registrate è collegato all’esito dell’ispezione?
+Le attività ad alto rischio ricevono in media più violazioni?
+Le ispezioni di follow-up hanno maggiori probabilità di essere superate rispetto alle ispezioni inizialmente fallite?
+Quanto tempo impiega in media un’attività a “recuperare” dopo un’ispezione fallita?
+I fallimenti ripetuti sono concentrati in un piccolo sottoinsieme di attività?
